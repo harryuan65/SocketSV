@@ -1,0 +1,12 @@
+D:\Visual_Studio_Projects\【專案群】C#系列\CsSocket_Multi_S\CsSocket_Multi_S\bin\Debug\CsSocket_Multi_S.exe.config
+D:\Visual_Studio_Projects\【專案群】C#系列\CsSocket_Multi_S\CsSocket_Multi_S\obj\Debug\CsSocket_Multi_S.csprojResolveAssemblyReference.cache
+D:\Visual_Studio_Projects\【專案群】C#系列\CsSocket_Multi_S\CsSocket_Multi_S\bin\Debug\CsSocket_Multi_S.exe
+D:\Visual_Studio_Projects\【專案群】C#系列\CsSocket_Multi_S\CsSocket_Multi_S\bin\Debug\CsSocket_Multi_S.pdb
+D:\Visual_Studio_Projects\【專案群】C#系列\CsSocket_Multi_S\CsSocket_Multi_S\obj\Debug\CsSocket_Multi_S.exe
+D:\Visual_Studio_Projects\【專案群】C#系列\CsSocket_Multi_S\CsSocket_Multi_S\obj\Debug\CsSocket_Multi_S.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_S\CsSocket_Multi_S\bin\Debug\CsSocket_Multi_S.exe.config
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_S\CsSocket_Multi_S\obj\Debug\CsSocket_Multi_S.exe
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_S\CsSocket_Multi_S\obj\Debug\CsSocket_Multi_S.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_S\CsSocket_Multi_S\bin\Debug\CsSocket_Multi_S.exe
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_S\CsSocket_Multi_S\bin\Debug\CsSocket_Multi_S.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_S\CsSocket_Multi_S\obj\Debug\CsSocket_Multi_S.csprojResolveAssemblyReference.cache
